@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+cors
+python-dotenv
+psycopg2-binary
